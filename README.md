@@ -18,7 +18,6 @@ Sou estudante de Ciências da Computação.
 - L
 - L
 - O
-<br>
   - W
   - O
   - R
