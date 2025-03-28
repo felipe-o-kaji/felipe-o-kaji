@@ -18,12 +18,13 @@ Sou estudante de Ciências da Computação.
 - L
 - L
 - O
-
-- W
-- O
-- R
-- L
-- D
+<br>
+  - W
+  - O
+  - R
+  - L
+  - D
+    - . . .
 
 ---
 
