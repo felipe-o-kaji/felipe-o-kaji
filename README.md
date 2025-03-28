@@ -39,8 +39,6 @@ Sou estudante de Ciências da Computação.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-o-kaji&layout=compact&hide=html,css)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-o-kaji&theme=radical)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=felipe-o-kaji)
 
 ![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=felipe-o-kaji.visitor-badge)
